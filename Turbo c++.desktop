@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_IN]=dosbox
+Name[en_IN]=Turbo c++
+Exec=dosbox -c TC.EXE -c EXIT
+Name=Turbo c++
+Icon=dosbox
